@@ -6,7 +6,7 @@
 	
 	<%@include file="poll.js"%>
     <head>
-        <title>Hello</title>
+        <title>Hello1</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="css/libs/oj/v1.0/alta/oj-alta-min.css" type="text/css"/>
