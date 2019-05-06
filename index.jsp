@@ -5,7 +5,7 @@
 	<%@include file="indexInclude.jsp" %>
 	
 	<%@include file="poll.js"%>
-    <head>
+    <head>sdsdsd
         
         <meta charset="UTF-8">asasasasasa
         <meta name="viewport" content="width=device-width, initial-scale=1">
